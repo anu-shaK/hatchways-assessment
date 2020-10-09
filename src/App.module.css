@@ -1,0 +1,20 @@
+.searchByName {
+  outline: none;
+  border-top-style: none;
+  border-right-style: none;
+  border-left-style: none;
+  width: 90%;
+  font-size: 1.5em;
+  margin-top: 1em;
+  margin-left: 3em;
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+  color: #333333;
+  font-weight: lighter;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+::placeholder {
+  color: darkgray;
+  font-weight: 100;
+}
